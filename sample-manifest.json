@@ -1,0 +1,12 @@
+{
+  "export_job_id": "524d8a10-3dc9-473c-a0b7-f36508b9c129",
+  "id_short": 898350,
+  "published_at": "2026-04-15T19:16:51Z",
+  "repo_name": "top-40-active-restaurant-review-whales-in-wisconsin-us-sample-898350",
+  "sample_asset_name": "beamstation_898350_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/898350/beamstation_898350_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_records": 49,
+  "sample_sha256": "ebc243729244f18b77b9af409f043758da42a1e6b9445846e71a97994b134678",
+  "sample_size_bytes": 210413,
+  "total_records": 1116
+}
