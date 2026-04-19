@@ -9,9 +9,9 @@
 | Dataset ID | `898350` |
 | Location | Wisconsin |
 | Category | Restaurants |
-| Full dataset size | 1,116 records |
-| Free sample size | 49 records (4.39%) |
-| Last export | 2026-03-31T23:26:57.416269+00:00 |
+| Full dataset size | 493 records |
+| Free sample size | 49 records (9.94%) |
+| Last export | 2026-04-15T01:03:52.719204+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-40-active-restaurant-review-whales-in-wisconsin-us-sample-898350/releases/download/sample-latest/beamstation_898350_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
