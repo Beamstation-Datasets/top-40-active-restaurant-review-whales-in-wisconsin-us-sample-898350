@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 40% of their local market for proven foot traffic and review volume within the last 30 days and a state-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 40% Active Restaurant Review Whales in Wisconsin, US",
-  "export_job_id": "524d8a10-3dc9-473c-a0b7-f36508b9c129",
+  "export_job_id": "9fe829a7-6b61-4438-8a10-7d751b561b5b",
   "github_org": "Beamstation-Datasets",
   "id_short": 898350,
   "location_name": "Wisconsin",
   "location_type": "state",
   "repo_name": "top-40-active-restaurant-review-whales-in-wisconsin-us-sample-898350",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/898350/beamstation_898350_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_pct": 4.39,
+  "sample_pct": 9.94,
   "sample_records": 49,
   "sample_sha256": "ebc243729244f18b77b9af409f043758da42a1e6b9445846e71a97994b134678",
   "sample_size_bytes": 210413,
-  "total_records": 1116,
-  "updated_at": "2026-03-31T23:26:57.416269+00:00"
+  "total_records": 493,
+  "updated_at": "2026-04-15T01:03:52.719204+00:00"
 }
